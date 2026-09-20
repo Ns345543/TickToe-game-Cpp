@@ -200,9 +200,11 @@ bool checkDraw()
         {
             if (board[i][j] >= '1' && board[i][j] <= '8')
             {
+                // this means games have still blocks and func ends here
                 return false;
             }
         }
     }
+    // game out of the blocks Draw function becomes true
     return true;
 }
