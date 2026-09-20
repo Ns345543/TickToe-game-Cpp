@@ -1,0 +1,3 @@
+If a player picks an occupied square, handleMove prints a message but main still moves on to the other player, so they lose their turn.
+
+i have fix that upper problem

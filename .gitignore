@@ -1,0 +1,8 @@
+# Compiled executable
+main
+
+# Temporary VS Code file
+tempCodeRunnerFile.cpp
+
+# JetBrains/CLion files
+.idea/
